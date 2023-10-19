@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837793000202",
+    "project_id": "birding-app-23b44",
+    "storage_bucket": "birding-app-23b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837793000202:android:763f9d3dedcf2ee35ee8f3",
+        "android_client_info": {
+          "package_name": "com.example.opsctask1screens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmDg4UGdtzmbhh1Duo9HO0u3zI239w-KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

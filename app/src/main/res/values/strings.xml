@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OPSCTASK1SCREENS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="google_map_key">AIzaSyB3FkilzV-qw_X178Fvigqln3k5szctTR8</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
